@@ -1,0 +1,22 @@
+Image Placeholders Needed:
+
+1. logo-placeholder.png (40x40px) - Colorful circular logo for "mi mundo interior"
+2. profile-placeholder.jpg (150x150px) - Profile photo of Liz
+3. substack-icon-placeholder.png (24x24px) - Substack icon
+4. about-placeholder.jpg (600x400px) - Image of someone writing or reading
+5. teddy-bear-placeholder.jpg (400x300px) - Teddy bear with mask (for health post)
+6. paradox-placeholder.jpg (400x300px) - Abstract or artistic image representing paradoxes
+7. scotch-placeholder.jpg (400x300px) - Image related to pets or daily life
+
+Color Palette for Images:
+- Primary Purple: #b794c7
+- Secondary Purple: #d4b5e0
+- Light Purple: #f0e6f7
+- Accent Pink: #e8b4cb
+- Soft pastels and warm tones
+
+Style Notes:
+- All images should have a soft, dreamy aesthetic
+- Use rounded corners and soft shadows
+- Maintain the colorful, whimsical brand feeling
+- Images should feel personal and authentic
