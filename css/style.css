@@ -72,17 +72,15 @@ body {
 .nav-logo {
     display: flex;
     align-items: center;
-    gap: 10px;
-    font-weight: 600;
-    color: var(--primary-purple);
-    font-size: 1.2rem;
+    height: 100%;
 }
 
 .logo-img {
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
-    object-fit: cover;
+    height: 60px;
+    width: auto;
+    max-width: 300px;
+    object-fit: contain;
+    object-position: left center;
 }
 
 .nav-menu {
